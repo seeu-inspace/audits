@@ -1,5 +1,6 @@
 # Audits
 
+A collection of my personal security audit reports.
 
 ## Competitive Audits
 
