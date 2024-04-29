@@ -2,7 +2,7 @@
 
 Dates: Apr 11th, 2024 - Apr 18th, 2024
 
-[See more contest details here](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup)
+[See the contest details here](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup)
 
 ## Table of contents
 - [Summary](#summary)
