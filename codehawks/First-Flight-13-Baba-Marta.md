@@ -15,7 +15,12 @@ Dates: Apr 11th, 2024 - Apr 18th, 2024
 ## Summary
 
 **Scope**
-- 
+- HealthToken.sol
+- MartenitsaEvent.sol
+- MartenitsaMarketplace.sol
+- MartenitsaToken.sol
+- MartenitsaVoting.sol
+- SpecialMartenitsaToken.sol
 
 **Issues found**
 | Category | Number of issues found |
