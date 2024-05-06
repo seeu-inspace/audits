@@ -13,9 +13,10 @@ Dates: Apr 25th, 2024 - May 2nd, 2024
 
 ## Summary
 
-**Scope**
-- MerkleAirdrop.sol
-- Deploy.s.sol
+| Scope |
+| --- |
+| MerkleAirdrop.sol |
+| Deploy.s.sol |
 
 **Issues found**
 | Category | Number of issues found |
